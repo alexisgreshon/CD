@@ -17,6 +17,8 @@
       </type>
       <type name="NewStructure3" kind="STRUCT" desc="">
       </type>
+      <type name="NewStructure4" kind="STRUCT" desc="">
+      </type>
       <type name="TestCDFR" kind="STRUCT" desc="">
       </type>
       <type name="TestPK" kind="STRUCT" desc="">
